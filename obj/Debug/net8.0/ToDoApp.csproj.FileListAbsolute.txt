@@ -1,0 +1,14 @@
+C:\Users\manny\Documents\devFolder\ToDoApp\bin\Debug\net8.0\ToDoApp.exe
+C:\Users\manny\Documents\devFolder\ToDoApp\bin\Debug\net8.0\ToDoApp.deps.json
+C:\Users\manny\Documents\devFolder\ToDoApp\bin\Debug\net8.0\ToDoApp.runtimeconfig.json
+C:\Users\manny\Documents\devFolder\ToDoApp\bin\Debug\net8.0\ToDoApp.dll
+C:\Users\manny\Documents\devFolder\ToDoApp\bin\Debug\net8.0\ToDoApp.pdb
+C:\Users\manny\Documents\devFolder\ToDoApp\obj\Debug\net8.0\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manny\Documents\devFolder\ToDoApp\obj\Debug\net8.0\ToDoApp.AssemblyInfoInputs.cache
+C:\Users\manny\Documents\devFolder\ToDoApp\obj\Debug\net8.0\ToDoApp.AssemblyInfo.cs
+C:\Users\manny\Documents\devFolder\ToDoApp\obj\Debug\net8.0\ToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\manny\Documents\devFolder\ToDoApp\obj\Debug\net8.0\ToDoApp.dll
+C:\Users\manny\Documents\devFolder\ToDoApp\obj\Debug\net8.0\refint\ToDoApp.dll
+C:\Users\manny\Documents\devFolder\ToDoApp\obj\Debug\net8.0\ToDoApp.pdb
+C:\Users\manny\Documents\devFolder\ToDoApp\obj\Debug\net8.0\ToDoApp.genruntimeconfig.cache
+C:\Users\manny\Documents\devFolder\ToDoApp\obj\Debug\net8.0\ref\ToDoApp.dll
